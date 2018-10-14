@@ -1,4 +1,4 @@
 <?php 
 	$tem =2; 
-	echo $tem;
+	echo $tem+2;
 ?>
