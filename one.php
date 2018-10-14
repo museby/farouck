@@ -1,4 +1,4 @@
 <?php 
-	$tem =2; 
-	echo $tem+2;
+	$rem=1; 
+	echo $rem;
 ?>
